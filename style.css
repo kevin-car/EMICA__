@@ -1,0 +1,27 @@
+body{
+    background-color:antiquewhite;
+}
+
+.firstBaniere{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.boutons{
+    font-size: 3rem;
+}
+
+
+
+.Titre2{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.lesPhotos{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}

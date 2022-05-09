@@ -1,0 +1,30 @@
+.bloc{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+a{
+    color: blue;
+}
+
+.bloc{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+img{
+width: 50%;
+height: 50%;
+}
+
+h2{
+    color: red;
+    font-size: 3rem;
+}
+
+.retour{
+    display: flex;
+    flex-direction: row-reverse;
+}
